@@ -7,3 +7,5 @@ To run this application locally, follow these steps:
 2. Install the required packages: Key libraries used include numpy, pandas, matplotlib, keras,streamlit and tensorflow.
 3. Run the application: streamlit run app.py
 
+The application will be available at 'http://localhost:8501'.
+
